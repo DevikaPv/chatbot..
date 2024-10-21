@@ -52,4 +52,4 @@ var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_co
    pip install -r requirements.txt
 ```
 4. python app.py
-
+5. copy the link and search
